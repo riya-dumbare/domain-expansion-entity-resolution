@@ -1,7 +1,7 @@
 venv/
 __pycache__/
 *.pyc
-dataset/
+data/
 .ipynb_checkpoints/
 output/*.tsv
 output/*.tsv
